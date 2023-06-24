@@ -38,6 +38,9 @@ If you are only interested in data visualization codes, you can start from part 
 
 The part 5 about `textual data exploration` might take a longer time for running, actually it runs about 1 hour on our laptop, so you might jump out this process or simply visualize the output results in our notebook.
 
+### Report
+
+The report for Module 1 is also uploaded in the folder `Module_1`, named as [INDENG243 Module 1 Report - Group 18](./Module_1/INDENG243_Module1_Report_Group18.pdf)
 
 ---
 
@@ -66,6 +69,9 @@ This time apart from the main recommendation models, we also explore some NLP mo
 
 Under `Notebook` folder, you can see `output` for NLP models and some `pictures` for results' screenshots and demonstration used in notebooks.
 
+### Report
+
+The report for Module 2 is also uploaded in the folder `Module_2`, named as [INDENG243 Module 2 Report - Group 18](./Module_2/INDENG243_Module2_Report_Group18.pdf)
 
 ---
 
