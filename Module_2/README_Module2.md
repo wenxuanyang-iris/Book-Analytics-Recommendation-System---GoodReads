@@ -1,6 +1,5 @@
 # GoodReads-Recommendation-System
 ### @Group 18 <br>
-### @Yanbo Wang, Yinuo Hu, Jiaming Xiong, Xinlin Huang, Shichen Wu, Wenxuan Yang
 ---
 
 This is a repository for UC Berkeley INDENG 243: Analytics Lab Group Project
@@ -27,10 +26,6 @@ The main part is included in notebook [INDENG243_Project_Module2.ipynb](./Module
 This time apart from the main recommendation models, we also explore some NLP models and their codes are generally hard to be run in jupyter notebooks, so we mainly run them in IDE and put some result screenshots and markdowns for explanations in notebook. Please see [NLP_Models](./Module_2/NLP_Models) if you are interested in the original codes.
 
 Under `Notebook` folder, you can see `output` for NLP models and some `pictures` for results' screenshots and demonstration used in notebooks.
-
-### Report
-
-The report for Module 2 is also uploaded in the folder `Module_2`, named as [INDENG243 Module 2 Report - Group 18](./Module_2/INDENG243_Module2_Report_Group18.pdf)
 
 
 
